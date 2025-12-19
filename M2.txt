@@ -1,0 +1,221 @@
+Marketing Env
+
+1. component macro env
+• demographic env
+• natural
+• sociocultural
+• political
+• economic
+• technological
+
+2. maketing intermediaries
+• ind or business helping company promote, sell & distribute good to consumer 
+
+3. micro & macro env
+• micro consist of element that directly influence business. eg: supplier, competitior etc.
+• macro consist economic, political, natural and technological forces which are uncontrollable.
+
+4. factor affecting marketing operation.
+• economic factor
+• political
+
+5. internal marketing
+• involving  all lvl staff in marketing program to help them understand their role.
+
+6.Marketing env and its feature
+>marketing env denotes all external force affecting org ability to develop and maintain successful transaction and relation with customer.
+>>feature of marketing env:
+>Dynamic
+>complex
+>change
+>long-term impact
+
+7.factor economic env
+>income distribution 
+>inflation
+>fiscal policy
+>trade cycle
+
+8.Component political and legal env
+>political env
+>gov policy
+>power group
+>regional association
+
+9.component micro env
+>>competitiors
+>most common competition is where a company product is replicated.
+> eg: phone market company face competition to deliver better product.
+>>customer
+>purpose of business is to create customer, serve their demand & earn profit.
+>>supplier
+>they are either ind or business & provide resources needed by company to deliver their product.
+>>public
+>any group having interest & potentialto impact company ability to achieve its obj.
+>eg: environmentalist, consumer protection group etc.
+>marketing intermediaries
+>eg:wholesaler, retailer & agents.
+
+10.how political env of nepal affect country business activities.
+>>political env
+>include law & gov agency influencing org & ind in a given society.
+>>force of political env:
+>increase legislation
+-most dev country have so many law covering issue such as fair trade, env protection etc.
+>political system
+-democratic system consider paradise for customer focused marketing & unstable political system paradise for black market.
+>law
+-it protect business from unfair competition & consumer from unfair business practices.
+>gov policy
+-issued as national plan & annual budget which influence not only marketing but social & cultural values of a country.
+>special interest group
+-pressure gov official & business to pay more attention on consumer right, animal right etc.
+
+11.impact economic env on marketing company product.
+>>economic env of marketing 
+>consist factor affecting consumer purchasing power & spending patterns.
+>nation vary in their level & dis of income.some have subsistence economy & consume most of their own agricultural & industrial output.
+>industrial economy offer rich market for diff kind of goods.
+>change in income, cost of living, interest rate, borrowing pattern have large impact on market & company watch these by using economic forecasting.
+>business dont have to be wiped out by economic downturn or caught short in boom with adequate warning they can take adv of changes in economic env.
+>marketer must pay close attention to major trend & consumer spending patter both acroos & within world of market.
+>>economic trends:
+>income distribution
+-income dis not equal in nepal as rich are becoming richer.
+-due to remittance dis has been changing slowly.
+>spending trend
+-consumer having diff income lvl have diff spending habit.
+>per capita income
+-indicate purchasing power of market even within region there may be variation in per capita income.
+>trade cycle
+-prosperity
+.high employment, low inflation, high income & purchasing power & create opp for marketer.
+-recission
+.high unemployment, low purchasing power and create challenge for marketer.
+-depression
+.high unemploy, low wages
+-recovery
+.gov use measure to control money supply, control saving & exp to reduce unemploy and increase purchasing power.
+>willingness to spend
+-depend on buying power,family background & economic condiditon.
+-eg:income increase and gov subsidy increase then people make inv and willingness to spend increases.
+>inflation
+-fall in purchasing power of money caused by increase in circulation of money.
+-war,political instability & natural disaster cause inflation due to increase money without supply of demand product & price increase.
+
+12.how technological factor affect marketing program of company
+>technological env of marketing
+-include force that create new tech, product & opp.
+-eg: computer,internet,ai etc.
+-as tech become more complex public need to know thate these are safe so gov agency investigate & ban unsafe product & set safety standard & penalty that fail ot meet them.
+-marketer must be aware of these regulation when creating new tech and product.
+>Tech factor
+-lvl tech
+.can be manual & capital based where manula is traditional & simple & used for low volume production.
+.mechanized tech replace human with low price.
+-tech transfer
+.tech transfer through FDI,licensing etc.
+-tech change
+.product like radio & calculator are affected by mobile & will be further advance in next decade making existing product obsolete.
+-R&D activities
+.great innovation are outcome of R&D.
+.company allocate huge budget for it & customer are getting new product with higher value.
+
+13.Feature marketing env
+-dynamic
+.marketing env is continuously changing like income lvl,gov rules,tech etc are always changing.
+-complex
+.marketing env is very complex & diff to predict.
+.eg:increase popn pressure income dis & may decline income.
+-long term impact
+.change in env force like politic & tech give long term impact.
+-multi face
+.change in env can be opp for one but threat for other.
+.loadshedding challenge for marketer but opp for candle & inverter marketer.
+-related with SWOT
+.internal env related with strength & weakness while ext env related with opp & threat.
+
+14. Micro env marketing
+>micro env
+-force within org having potential to affect org marketing performance.
+
+15. Demographic env of marketing
+-demography is study of human popn,size,location,age,gender etc.
+>forces
+-popn size
+.higher greater market potential.
+.eg:india,china etc.
+-popn growth
+.undev country account 76% & dev 2% of the world popn per year.
+.growing popn doesnt mean growing market unless market have sufficient purchasing power.  
+-migration
+.another imp com of demographic force.
+.it can be national & international.
+.people migrate for emply opp,security,better earning etc.
+-urbanization
+.<urbanization<market opp as computer & tv popular in urban market than rural.
+-age mix
+.mexico=<young & japan=<old popn so, toys and computer game imp = mexico > japan.
+
+16. Socio cultural env & its impact on firm marketing activities.
+-socio cultural env
+.env that include diverse caste,religion,tradition etc.
+>socio cultural aspect relevant in marketing are:
+-integration of market with with rise in mobility
+.with dev in communication,edu & transport national market created with national dis network.
+-well informed society
+.today market with internet easily attached to global info & literacy lvl is going up.
+-Change in value & lifestyle
+.society influenced by western ideology distancing themselves from old tradition & religion.
+.they are highly influenced by film & celebrities.
+
+17.significane tech env in marketing
+>cost reduction
+-computer & machine are used in production reducing cost which enable consumer to get quality good and service at lower price.
+>quality imp
+-tech advancement made possible to increase quality.
+-eg:phone instead of radio & calulator.
+>quick delivery
+-drone for transport & internet for communication making good produce at one place easily available for another.
+>no defect
+-machine with automation make less defect than human as they dont get tired & emotional saving time & money.
+>increase standard of living
+-lots of new good & service is innovated made our life easier & increase lifestyle.
+-eg:internet,computer etc.
+
+18.effect natural env on marketing mix.
+>natural diversity
+-nepal has many topography & climate variation that it can use for production of variety product consume it and export.
+-tourism can also be promoted to large extent.
+>hydropower
+-nepal rich in water & can attract inv to produce electricity in greate extent & export it.
+>landlocked
+-nepal can act as link btwn china & india marketing activities.
+-it can export it product to these two huge country as a market.
+
+19. marketing mix & how competitive env influence choice of marketing mix.
+>marketing mix
+-set of marketing element company uses to achieve its goals.
+-include promotion,produce,price and place.
+>>competitive env influence choice of marketing mix
+>competitor type
+-if diff good used to satisfy same need its common competition.
+-if common good used to satisfy single need its composition competition.
+-if to satisfy single need one brand used insted of another its brand competition.
+>nature of competition
+-can be oligopoly where seller are limited.
+-eg: nvidia for h100 gpu for ai training.
+-it also can pe pure competitive where there is more supplier.
+-eg: samsung,google,huwawei,nothig etc for mobile.
+>competition lvl
+-include price & non price competition where price competition done by increasing or decreasing price and non price competition done showing diff btwn good,quality & feature.
+
+20. Macro env 
+-include ext force over which or has little control.
+>>economic env
+>income dis,spending trend etc.
+>>socio cultural env
+>well informed society,change in lifestyle etc.
+>>tech env
+>>political env
+>>natural env
