@@ -1,0 +1,128 @@
+12 imp marketing info system
+
+- expansion of market
+ provide necessary info to promote market from small to medium & from medium to large or from national to international.
+
+- marketing plan
+provide reliable info about customer want, need, trend & competitior for effective planning.
+
+- want creation & delivery
+ help market research to identify customer want & make them realize it & deliver satisfying product. 
+
+- evaluation & control
+ help see what work & what dont also help identify trend & market providing req info.
+
+- env monitoring & scanning
+ help scanning to analyze opp & threat & adopt acc.
+
+13 component internal system
+ 
+- decision by top lvl 
+ BOD are top lvl which formulates various decision
+
+- financial report
+ give info about org income, exp etc.
+
+- customer order & complain
+ order provide info about demand & complain provide info about product quality, feature etc.
+
+- invoice
+ dispatch bill with customer name, product, price, quantity and place
+
+-sale report
+ info about sales demand of particular area.
+
+- other record
+ include annual report, financial statement etc.
+
+14. Source MIS
+>formal
+- middleman
+include distributer, wholesaler & retailer.
+They have info about market because of direct link with customer.
+
+- sale force
+org train & motivate them to spot & report dev or change in market 
+
+- marketing info centre
+org establish separate centre for info centre
+
+- vacancy announcement
+org announce & competitior staff may join & org receive imp secret info
+
+- private agency
+collect info regularly & provide to interested org
+
+- stakeholder
+include gov, customer etc which also provide info about market
+
+- international source
+through international org & article written by expert.
+
+>informal
+- get info by newspapaer and journals.
+- by talking with managers of diff depart like hrm, financial, research & sales.
+
+15 DF market intelligence & research
+-collect day to day info about market env
+systematic gather, record & analyze info about market good & service
+
+-manager must informed themselves about change in env
+managers research system to solve specific problems of market g&s
+
+- main obj = collect, select & dis info about env change to relevant party
+provide relevant info for decision making
+
+- principal = utilize opp & avoid threat through micro env analysis
+research for solution
+
+16 component marketing decision support system
+- data warehouse
+warehouse storing info collected from internal record, MSI & market research
+
+- satistical bank
+system storing tool of stastics used to analyze data from data warehouse
+
+- model bank
+ collection of diff managerial model & computer program to understand, predict & control marketng problem 
+
+17 role Mis
+- micro analysis of env to collect info needed for business org
+- regularly provide info about dev & changess in market
+- manager receive current info through MSI
+- regular feedback through marketing communication
+
+18 role MIS
+- identify trend
+MIS help to identify trend in price, design, tech etc & take effective dec accordingly
+
+- facilate marketing plan & control
+quality plan req for product planning, pricing & dis is only possible for company with good MIS
+
+- quick info 
+org has to take quick dec which is provided by properly design MIS
+
+- quality dec making
+properly design MIS with computers & data processing tool manager can make quality dec
+
+- tap business opp
+MIS tap opp which werent possible due to insufficient data providing req data
+
+- provide Mi
+Mis provide MI by giving info about event in ext env like change in customer behaviour, gov policy, international env tec.
+
+- identify change
+org with Mis able to realize need for change in business line & adopt acc
+
+- integrate info 
+decentralized org can gather info from diff branch & depart & integrate it for effective dec with Mis
+
+19 Marketing research prac Nepal
+- implementation of MIS
+org arent able to establish & operate market info due to traditional mgmt system which is seller oriented & no priority for research activity & decision made acc to ind prac & experiences
+
+- source of info
+researcher not able to receive info through nepalese org.So, market researcher have to depend on limited business info
+
+- developing prac of MIS
+new org evolving & some is using electronic medium like e-commerce and internet to collect, evaluate & provide info
